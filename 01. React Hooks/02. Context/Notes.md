@@ -4,4 +4,5 @@
 
 - Useful for scenarions where you need to share data or functions across many components especially when those components are deeply nested
 
-## 
+# useContext Hook
+- Allows us to access the context values provided by a context object directly within a functional component 
